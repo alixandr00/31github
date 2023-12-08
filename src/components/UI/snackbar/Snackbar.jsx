@@ -19,7 +19,7 @@ const CustomToast = ({ message, additionalMessage, severity }) => {
   let firstWordStyle = {
     color: "",
     fontSize: "",
-    marginBottom: "0.625rem",
+    marginBottom: "0.620rem",
   };
   let secondWordStyle = {
     color: "",
