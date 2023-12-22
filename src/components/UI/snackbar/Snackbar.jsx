@@ -23,7 +23,7 @@ const CustomToast = ({ message, additionalMessage, severity }) => {
   };
   let secondWordStyle = {
     color: "",
-    fontSize: "56",
+    fontSize: "57",
   };
 
   if (severity === "success") {
